@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+*.local.conf
+bin/*
+src/anuma-wallet-desktop_v0.js

@@ -1,0 +1,21 @@
+{
+  "name": "@anuma/ux",
+  "version": "1.0.30",
+  "description": "Anuma Wallet User Interface Framework",
+  "main": "anuma-ux.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnumaNetwork/anuma-ux"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "files": [
+    "anuma-ux.js",
+    "anuma-ux.css",
+    "src",
+    "README.md",
+    "LICENSE",
+    "resources"
+  ]
+}
