@@ -1,5 +1,5 @@
 {
-  "name": "@anuma/ux",
+  "name": "@anuma-network/ux",
   "version": "1.0.30",
   "description": "Anuma Wallet User Interface Framework",
   "main": "anuma-ux.js",
