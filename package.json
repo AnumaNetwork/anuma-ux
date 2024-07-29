@@ -3,13 +3,12 @@
   "version": "1.0.30",
   "description": "Anuma Wallet User Interface Framework",
   "main": "anuma-ux.js",
-  "private": true,
+  "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnumaNetwork/anuma-ux"
+    "url": "git+https://github.com/AnumaNetwork/anuma-ux.git"
   },
   "keywords": [],
-  "dependencies": {},
   "files": [
     "anuma-ux.js",
     "anuma-ux.css",
@@ -17,5 +16,14 @@
     "README.md",
     "LICENSE",
     "resources"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/AnumaNetwork/anuma-ux/issues"
+  },
+  "homepage": "https://github.com/AnumaNetwork/anuma-ux#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anuma Devs",
+  "license": "ISC"
 }
