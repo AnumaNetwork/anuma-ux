@@ -592,7 +592,7 @@ export class AnumaWalletMobile extends AnumaWalletUI{
 	openAddressExplorer(address){
 		if (!address)
 			return
-		let url = `https://explorer.anumacoin.com/addresses/${address}`;
+		let url = `https://explorer.anuma.network/addresses/${address}`;
 
 		window.open(url);
 	}

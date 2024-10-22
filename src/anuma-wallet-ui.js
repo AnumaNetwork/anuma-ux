@@ -309,11 +309,11 @@ export class AnumaWalletUI extends BaseElement{
 						<div class="tx-body">
 							${tx.note}
 							<div class="tx-id">
-								<a target="_blank" href="https://explorer.anumacoin.com/txs/${tx.id}">${tx.id}</a>
+								<a target="_blank" href="https://explorer.anuma.network/txs/${tx.id}">${tx.id}</a>
 							</div>
 							<div class="tx-address">
 								${tx.myAddress?T('COMPOUNDING WALLET => '):''}
-								<a target="_blank" href="https://explorer.anumacoin.com/addresses/${tx.address}">${tx.address}</a>
+								<a target="_blank" href="https://explorer.anuma.network/addresses/${tx.address}">${tx.address}</a>
 							</div>
 						</div>
 					</flow-expandable>
@@ -355,11 +355,11 @@ export class AnumaWalletUI extends BaseElement{
 						<div class="tx-amount">${tx.in?'':'-'}${ANUM(tx.amount)} ANUM</div>
 						<div class="br tx-note">${tx.note}</div>
 						<div class="br tx-id">
-							<a target="_blank" href="https://explorer.anumacoin.com/txs/${tx.id.split(":")[0]}">${tx.id.split(":")[0]}</a>
+							<a target="_blank" href="https://explorer.anuma.network/txs/${tx.id.split(":")[0]}">${tx.id.split(":")[0]}</a>
 						</div>
 						<div class="tx-address">
 							${tx.myAddress?T('COMPOUNDING WALLET => '):''}
-							<a target="_blank" href="https://explorer.anumacoin.com/addresses/${tx.address}">${tx.address}</a>
+							<a target="_blank" href="https://explorer.anuma.network/addresses/${tx.address}">${tx.address}</a>
 						</div>
 					</div>`
 				})}
@@ -522,10 +522,10 @@ export class AnumaWalletUI extends BaseElement{
 						<div class="tx-amount">${ANUM(tx.satoshis)} ANUM</div>
 						<div class="br tx-mass"></div>
 						<div class="br tx-id">
-							<a target="_blank" href="https://explorer.anumacoin.com/txs/${tx.txId}">${tx.id}</a>
+							<a target="_blank" href="https://explorer.anuma.network/txs/${tx.txId}">${tx.id}</a>
 						</div>
 						<div class="tx-address">
-							<a target="_blank" href="https://explorer.anumacoin.com/addresses/${tx.address}">${tx.address}</a>
+							<a target="_blank" href="https://explorer.anuma.network/addresses/${tx.address}">${tx.address}</a>
 						</div>
 					</div>`
 				})}
