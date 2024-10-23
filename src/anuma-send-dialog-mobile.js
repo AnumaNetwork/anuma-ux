@@ -2,7 +2,7 @@ import {
 	html, css, AnumaDialog, askForPassword, ANUM,
 	formatForMachine, T, i18n, formatForHuman, getLocalWallet
 } from './anuma-dialog.js';
-import {Wallet} from '@anuma/wallet-worker';
+import {Wallet} from '@anuma-network/wallet-worker';
 const pass = "";
 
 class AnumaSendDialogMobile extends AnumaDialog{

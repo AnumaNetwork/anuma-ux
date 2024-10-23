@@ -389,11 +389,11 @@ export class AnumaWalletMobile extends AnumaWalletUI{
 								<fa-icon icon="caret-right"></fa-icon>
 								<span is="i18n-span">DEVELOPER INFO</span>
 							</div>
-							<div class="badge"><span is="i18n-span">Anuma Core ANUM:</span> ${window.PWA_MODULES['@anuma/core-lib']}</div>
-							<div class="badge"><span is="i18n-span">Anuma Wallet Framework ANUM:</span> ${window.PWA_MODULES['@anuma/wallet']}</div>
-							<div class="badge"><span is="i18n-span">Anuma gRPC:</span> ${window.PWA_MODULES['@anuma/grpc']}</div>
-							<div class="badge"><span is="i18n-span">Anuma gRPC Relay:</span> ${window.PWA_MODULES['@anuma/grpc-web']}</div>
-							<div class="badge"><span is="i18n-span">Anuma UX ANUM:</span> ${window.PWA_MODULES['@anuma/ux']}</div>
+							<div class="badge"><span is="i18n-span">Anuma Core ANUM:</span> ${window.PWA_MODULES['@anuma-network/core-lib']}</div>
+							<div class="badge"><span is="i18n-span">Anuma Wallet Framework ANUM:</span> ${window.PWA_MODULES['@anuma-network/wallet']}</div>
+							<div class="badge"><span is="i18n-span">Anuma gRPC:</span> ${window.PWA_MODULES['@anuma-network/grpc']}</div>
+							<div class="badge"><span is="i18n-span">Anuma gRPC Relay:</span> ${window.PWA_MODULES['@anuma-network/grpc-web']}</div>
+							<div class="badge"><span is="i18n-span">Anuma UX ANUM:</span> ${window.PWA_MODULES['@anuma-network/ux']}</div>
 							<div class="badge"><span is="i18n-span">Flow UX ANUM:</span> ${window.PWA_MODULES['@aspectron/flow-ux']}</div>
 						</flow-expandable>
 

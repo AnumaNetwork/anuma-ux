@@ -4,7 +4,7 @@ import {
 	formatForMachine, getLocalWallet
 } from './anuma-dialog.js';
 const pass = "";
-import {Wallet} from '@anuma/wallet-worker';
+import {Wallet} from '@anuma-network/wallet-worker';
 
 class AnumaSendDialog extends AnumaDialog{
 	static get properties(){

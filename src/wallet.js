@@ -3,7 +3,7 @@ window.mobileMode = window.localStorage?.getItem("mobileMode")==1||false;
 let isMobile = window.mobileMode?true:_isSmallScreen;
 window.isMobile = isMobile;
 
-import {helper, Storage, CONFIRMATION_COUNT, COINBASE_CFM_COUNT} from '@anuma/wallet-worker';
+import {helper, Storage, CONFIRMATION_COUNT, COINBASE_CFM_COUNT} from '@anuma-network/wallet-worker';
 export const {Deferred, ANUM, Decimal} = helper;
 export {CONFIRMATION_COUNT, COINBASE_CFM_COUNT};
 const storage = new Storage({logLevel:'debug'});

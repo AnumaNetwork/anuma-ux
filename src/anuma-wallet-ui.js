@@ -12,7 +12,7 @@ import {
 	askForPassword
 } from './wallet.js';
 export * from './wallet.js';
-import {initAnumaFramework, Wallet, workerLog} from '@anuma/wallet-worker';
+import {initAnumaFramework, Wallet, workerLog} from '@anuma-network/wallet-worker';
 export {Wallet};
 Wallet.setWorkerLogLevel(localStorage.walletWorkerLogLevel || 'none')
 

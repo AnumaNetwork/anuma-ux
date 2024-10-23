@@ -16,6 +16,6 @@ Kaspa Devfund donations: `kaspa:precqv0krj3r6uyyfa36ga7s0u9jct0v4wg8ctsfde2gkrsg
 
 Kaspa Mining address: `kaspa:pzhh76qc82wzduvsrd9xh4zde9qhp0xc8rl7qu2mvl2e42uvdqt75zrcgpm00`
 
-Anuma Devfund donations: `anuma:qzrq7v5jhsc5znvtfdg6vxg7dz5x8dqe4wrh90jkdnwehp6vr8uj7csdss2l7`
+Anuma Devfund donations: `anuma:qrg03ql6rnfvwd8a3z04j5a33l6f5d0ua8fkysftx8w7kacf0lsrqzxq2k2ud`
 
-Anuma WebWallet donations: `anuma:qqe3p64wpjf5y27kxppxrgks298ge6lhu6ws7ndx4tswzj7c84qkjlrspcuxw`
+Anuma WebWallet donations: `anuma:qpwlucat86aj6ydcfnha8f5x0dwke2qs3609vm7huy9jg8h7jc72uvz6t24qr`
