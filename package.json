@@ -1,6 +1,6 @@
 {
   "name": "@anuma-network/ux",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "description": "Anuma Wallet User Interface Framework",
   "main": "anuma-ux.js",
   "private": false,
@@ -25,5 +25,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anuma Devs",
+  "email": "anumanetwork@gmail.com",
+  "url": "https://anuma.network",
   "license": "ISC"
 }
