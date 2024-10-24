@@ -283,8 +283,8 @@ export class AnumaWalletMobile extends AnumaWalletUI{
 		let PWAVersion = window.PWA?.version||'';
 
 		let donationAddresses = [
-			["Anuma Devfund donations:", "anuma:qzrq7v5jhsc5znvtfdg6vxg7dz5x8dqe4wrh90jkdnwehp6vr8uj7csdss2l7"],
-			["Anuma WebWallet donations:", "anuma:qqe3p64wpjf5y27kxppxrgks298ge6lhu6ws7ndx4tswzj7c84qkjlrspcuxw"],
+			["Anuma Devfund donations:", "anuma:qrg03ql6rnfvwd8a3z04j5a33l6f5d0ua8fkysftx8w7kacf0lsrqzxq2k2ud"],
+			["Anuma WebWallet donations:", "anuma:qrg03ql6rnfvwd8a3z04j5a33l6f5d0ua8fkysftx8w7kacf0lsrqzxq2k2ud"],
 		]
 
 		return html`
